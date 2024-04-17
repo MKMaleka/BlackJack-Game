@@ -1,2 +1,7 @@
-# Module_5_MAXMAL612_Classcode_Group-3_Maxwell-Maleka_SDF05_Justin-Jenecke
-BlackJack Game 
+# [SDF05] BlackJack Game
+
+## Learning Outcome
+- To build a fully functional game and deepen my understanding of JavaScript, including arrays, loops, and objects.
+
+
+![alt text](./images/casino.png)
